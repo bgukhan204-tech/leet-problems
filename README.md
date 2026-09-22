@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/bgukhan204-tech/leet-problems/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bgukhan204-tech/leet-problems/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bgukhan204-tech/leet-problems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
