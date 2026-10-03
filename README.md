@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bgukhan204-tech/leet-problems/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/bgukhan204-tech/leet-problems/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +37,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bgukhan204-tech/leet-problems/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/bgukhan204-tech/leet-problems/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/bgukhan204-tech/leet-problems/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/bgukhan204-tech/leet-problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
