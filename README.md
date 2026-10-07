@@ -31,6 +31,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bgukhan204-tech/leet-problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/bgukhan204-tech/leet-problems/tree/master/0044-wildcard-matching) |
+| [0087-scramble-string](https://github.com/bgukhan204-tech/leet-problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/bgukhan204-tech/leet-problems/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
@@ -45,6 +46,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/bgukhan204-tech/leet-problems/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/bgukhan204-tech/leet-problems/tree/master/0068-text-justification) |
+| [0087-scramble-string](https://github.com/bgukhan204-tech/leet-problems/tree/master/0087-scramble-string) |
 ## Greedy
 |  |
 | ------- |
