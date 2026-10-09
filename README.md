@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/bgukhan204-tech/leet-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bgukhan204-tech/leet-problems/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/bgukhan204-tech/leet-problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/bgukhan204-tech/leet-problems/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/bgukhan204-tech/leet-problems/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/bgukhan204-tech/leet-problems/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -59,4 +60,12 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/bgukhan204-tech/leet-problems/tree/master/0068-text-justification) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bgukhan204-tech/leet-problems/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bgukhan204-tech/leet-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
