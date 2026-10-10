@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bgukhan204-tech/leet-problems/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/bgukhan204-tech/leet-problems/tree/master/0076-minimum-window-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/bgukhan204-tech/leet-problems/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/bgukhan204-tech/leet-problems/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/bgukhan204-tech/leet-problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/bgukhan204-tech/leet-problems/tree/master/0087-scramble-string) |
 ## Greedy
 |  |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bgukhan204-tech/leet-problems/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/bgukhan204-tech/leet-problems/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
