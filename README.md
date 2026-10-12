@@ -10,6 +10,7 @@
 | [0047-permutations-ii](https://github.com/bgukhan204-tech/leet-problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/bgukhan204-tech/leet-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bgukhan204-tech/leet-problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/bgukhan204-tech/leet-problems/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/bgukhan204-tech/leet-problems/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/bgukhan204-tech/leet-problems/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/bgukhan204-tech/leet-problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/bgukhan204-tech/leet-problems/tree/master/0051-n-queens) |
 ## Sorting
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bgukhan204-tech/leet-problems/tree/master/0076-minimum-window-substring) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/bgukhan204-tech/leet-problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
