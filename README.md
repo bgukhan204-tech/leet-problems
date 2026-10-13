@@ -53,6 +53,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/bgukhan204-tech/leet-problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bgukhan204-tech/leet-problems/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/bgukhan204-tech/leet-problems/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/bgukhan204-tech/leet-problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/bgukhan204-tech/leet-problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/bgukhan204-tech/leet-problems/tree/master/0087-scramble-string) |
